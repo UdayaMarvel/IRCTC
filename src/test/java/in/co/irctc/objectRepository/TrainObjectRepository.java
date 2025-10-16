@@ -18,7 +18,7 @@ public class TrainObjectRepository extends UtilityClass {
 	
 	@FindBy(xpath = "//label[text()='From']/preceding-sibling::p-autocomplete//input")
 	private WebElement from;
-	
+
 	public WebElement getFrom() {
 		return from;
 	}
