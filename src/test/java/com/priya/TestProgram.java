@@ -17,15 +17,13 @@ public class TestProgram {
 	        }
 
 	        System.out.println("Combined String: " + result.toString());
-	    
+	    System.out.println("new Code to create conflict between master and member branch");
 
-	        
-	        
-	        
-	        
-	        
-	        
-	        
+
+
+		   System.out.println("new Code to create conflict between master and member branch");
+
+		   
 	}
 
 }
