@@ -1,6 +1,0 @@
-io\co\irctc\runner\TestRunner.class
-in\co\irctc\objectRepository\TrainObjectRepository.class
-in\co\irctc\stepDefinition\TrainTickets.class
-co\in\irctc\hooks\Hooks.class
-in\co\irctc\stepDefinition\General.class
-in\co\irctc\utility\UtilityClass.class

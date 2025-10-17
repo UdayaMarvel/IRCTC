@@ -21,7 +21,9 @@ public class TestProgram {
 
 
 
-		   System.out.println("new Code to create conflict between master and member branch")
+		   System.out.println("new Code to create conflict between master and member branch");
+
+		   
 	}
 
 }
