@@ -13,6 +13,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 public class Testing {
 
+	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		File file = new File("D:\\Workspace\\IRCTC\\src\\test\\resources\\GlobalSettings.properties");
 		try {
