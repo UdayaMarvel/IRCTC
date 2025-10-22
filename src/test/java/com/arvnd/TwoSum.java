@@ -12,8 +12,7 @@ public class TwoSum {
 					break;
 					
 				}
-				System.out.println("conflict");
-				
+				System.out.println("con");
 			}
 		}
 		
