@@ -12,7 +12,6 @@ public class TwoSum {
 					break;
 					
 				}
-				System.out.println("con");
 			}
 		}
 		
