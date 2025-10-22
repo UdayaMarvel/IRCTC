@@ -10,8 +10,7 @@ public class TwoSum {
 				if(nums[i]+nums[j]==target) {
 					System.out.println(i+","+j);
 					break;
-					
-				}
+					}
 				System.out.println("con");
 			}
 		}
