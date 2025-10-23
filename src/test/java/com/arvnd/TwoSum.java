@@ -16,10 +16,6 @@ public class TwoSum {
 				System.out.println("conflict creation");
 							System.out.println("conflict creation");
 
-							System.out.println("conflict creation");
-
-							System.out.println("conflict creation");
-
 			}
 		}
 		
