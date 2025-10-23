@@ -11,7 +11,7 @@ public class TwoSum {
 					System.out.println(i+","+j);
 					break;
 					}
-					
+					System.out.println("confix");
 				}
 			}
 		}
