@@ -11,7 +11,19 @@ public class TwoSum {
 					System.out.println(i+","+j);
 					break;
 					}
-					System.out.println("confix");
+					
+				
+				System.out.println("con");
+				System.out.println("con");
+
+				System.out.println("con");
+
+				System.out.println("con");
+
+				System.out.println("con");
+
+				
+				
 				}
 			}
 		}
