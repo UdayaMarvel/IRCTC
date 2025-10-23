@@ -14,10 +14,6 @@ public class TwoSum {
 					
 				}
 				System.out.println("conflict creation");
-
-			System.out.println("conon");
-			System.out.println("conflion");
-			System.out.println("conflicon");
 			}
 		}
 		
