@@ -17,6 +17,8 @@ public class TestProgram {
 	        }
 
 	        System.out.println("Combined String: " + result.toString());
+		System.out.println("conflict creation: ");
+		
 	    
 
 	}
